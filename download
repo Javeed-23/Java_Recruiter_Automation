@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+data/*.db
+data/tailored_resumes/*.txt
+.streamlit/secrets.toml

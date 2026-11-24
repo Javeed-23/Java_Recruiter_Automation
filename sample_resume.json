@@ -1,0 +1,15 @@
+{
+  "_note": "DEMO resume for a fictional candidate. Replace with your own details before real use.",
+  "name": "Demo Candidate",
+  "email": "demo.candidate@example.com",
+  "phone": "+1 555 010 0100",
+  "linkedin": "https://linkedin.example/in/demo-candidate",
+  "title": "Java Developer",
+  "years_experience": 2,
+  "skills": ["Java", "Spring Boot", "Hibernate", "REST APIs", "SQL", "MySQL", "Docker", "JUnit", "Maven", "Git", "Angular"],
+  "projects": [
+    {"name": "Online Shop Backend", "description": "REST API for a shop with login, orders and payments.", "tech": ["Java", "Spring Boot", "MySQL", "REST APIs"]},
+    {"name": "Task Tracker", "description": "Full-stack task manager with a Java API and an Angular front end.", "tech": ["Java", "Angular", "SQL", "Docker"]},
+    {"name": "Library System", "description": "Desktop library app with unit tests.", "tech": ["Java", "Hibernate", "JUnit", "Maven"]}
+  ]
+}
