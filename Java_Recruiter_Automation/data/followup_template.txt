@@ -1,0 +1,8 @@
+# Sent as a threaded reply when there is no answer after the follow-up period.
+Hi {recruiter_name},
+
+Just following up on my earlier note about the {job_title} role at {company}. I am still very interested and happy to share anything else you need.
+
+Thank you,
+{candidate_name}
+{candidate_phone} | {candidate_email}

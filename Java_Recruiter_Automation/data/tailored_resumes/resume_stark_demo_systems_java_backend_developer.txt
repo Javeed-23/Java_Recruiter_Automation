@@ -1,0 +1,13 @@
+Demo Candidate
+demo.candidate@example.com | +1 555 010 0100 | https://linkedin.example/in/demo-candidate
+
+SUMMARY
+Java Developer with 2+ years of experience, hands-on with Java, Spring Boot, Hibernate, MySQL, JUnit. Looking for a role where I can apply these skills.
+
+SKILLS
+Java, Spring Boot, Hibernate, MySQL, JUnit, Maven, Git, REST APIs, SQL, Docker, Angular
+
+PROJECTS
+- Library System: Desktop library app with unit tests. (Java, Hibernate, JUnit, Maven)
+- Online Shop Backend: REST API for a shop with login, orders and payments. (Java, Spring Boot, MySQL, REST APIs)
+- Task Tracker: Full-stack task manager with a Java API and an Angular front end. (Java, Angular, SQL, Docker)
